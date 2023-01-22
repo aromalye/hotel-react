@@ -1,0 +1,48 @@
+
+.form {
+    width:65%;
+    margin: 5rem 15rem;
+    border: 2px solid rgb(207, 180, 180);
+    padding: 3rem;
+    color: aliceblue;
+    background-image:url('https://images.unsplash.com/photo-1558976825-6b1b03a03719?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80') ;
+    /* background-image: url('https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'); */
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height: 30rem;
+}
+.form label{
+    background-color:rgb(37, 37, 39)
+}
+
+.form textarea {
+    max-height: 10rem;
+}
+.subbutton{
+    display:flex;
+    justify-content: end;
+}
+.bookrestform {
+    width:40%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.alert{
+    width:80% ;
+    margin: 5%;
+}
+h3{
+    color: rgb(57, 97, 57);
+}
+th{
+    color: brown;
+}
+.roomdetails{
+    font-size: large;
+    color:rgb(78, 77, 119);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.roomcard{
+    background-color: rgb(233, 250, 224);
+    border-radius: 20px;
+}

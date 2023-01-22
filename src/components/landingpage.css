@@ -1,0 +1,46 @@
+.landing {
+    /* background-image: url('https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2018/07/02/1038/Grand-Hyatt-Kochi-Bolgatty-P100-Villa-Living-Room.jpg/Grand-Hyatt-Kochi-Bolgatty-P100-Villa-Living-Room.4x3.jpg?imwidth=1280'); */
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
+
+.mainhead {
+    /* background-color: aquamarine; */
+    color: rgb(8, 8, 8);
+    padding-top: 10rem;
+    padding-left: 10rem;
+    font-size: 3rem;
+    font-family: 'Lora', serif;
+    text-transform: uppercase
+    
+}
+.desc {
+    /* background-color: aqua; */
+    font-family: 'Montserrat', sans-serif;
+    text-Transform: capitalize;
+    color:rgb(14, 14, 14);
+    font-size: small;
+    font-style: oblique;
+    width: 60%;
+    padding-left: 10rem;
+}
+.btn-landing{
+    margin: 2% 0 0 12%;
+}
+.landing .landinglist {
+    width: 15%;
+    position: absolute;
+    top: 25%;
+    right: 18%;
+}
+
+.landing a{
+    text-decoration: none;
+}
